@@ -12,4 +12,4 @@ Predict which Tweets are about real disasters and which ones are not
 * Model 6: TensorFlow Hub Pretrained Sentence Encoder (universal sentence encoder or USE)
 * Model 7: TF Hub Pretrained USE but with 10% of training data
 
-Result Kaggle Score on Model 6: 0.80753
+Model 6 Kaggle Score: 0.80753
